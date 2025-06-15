@@ -1,4 +1,4 @@
-algoritmo "primeiro"
+algoritmo "HelloWorld"
 var
 
 inicio
