@@ -1,7 +1,8 @@
 algoritmo "HelloWorld"
 var
-
+   msg: caractere
 inicio
-      Escreval("Olá, Mundo!")
+      msg <- "Olá, Mundo!"
+      Escreval(msg)
       Escreva("Me livrei da maldição!")
 fimalgoritmo
