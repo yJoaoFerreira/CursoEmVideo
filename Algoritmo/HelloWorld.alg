@@ -2,5 +2,6 @@ algoritmo "HelloWorld"
 var
 
 inicio
-      Escreva("OlÃ¡, Mundo!")
+      Escreval("Olá, Mundo!")
+      Escreva("Me livrei da maldição!")
 fimalgoritmo
