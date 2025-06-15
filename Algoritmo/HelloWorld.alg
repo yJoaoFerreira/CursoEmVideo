@@ -3,6 +3,6 @@ var
    msg: caractere
 inicio
       msg <- "Olá, Mundo!"
-      Escreval(msg)
+      Escreval("Mensagem: ", msg)
       Escreva("Me livrei da maldição!")
 fimalgoritmo
