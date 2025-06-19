@@ -17,4 +17,5 @@ inicio
       Escreval(C<=B^A)
       Escreval(B<=C%2)
       Escreval(1=c%2)
+      Escreval((A=B) ou (C>A))
 fimalgoritmo

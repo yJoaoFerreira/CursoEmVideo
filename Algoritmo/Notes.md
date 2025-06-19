@@ -56,10 +56,25 @@ A%B | Módulo/Resto    | 5%2=1
 ---
 
 # Ordem de Precedência
-- () | Parênteses            | (3+2)/2=2.5 
-- ^  | Exponenciação         | 3^2*5=45
-- */ | Multiplicação/Divisão | 3+2/2=4
-- +- | Adição/Subtração      | 3+2=5
+
+```
+Aritméticos:
+
+| () | Parênteses            | (3+2)/2=2.5 |
+| ^  | Exponenciação         | 3^2*5=45    |
+| */ | Multiplicação/Divisão | 3+2/2=4     |
+| +- | Adição/Subtração      | 3+2=5       |
+|----|-----------------------|-------------|
+
+Relacionais:
+
+Todos tem a mesma ordem de precedência, sendo executados da esquerda pra direita.
+
+Lógicos:
+E
+OU
+NÃO
+```
 
 ---
 
@@ -94,7 +109,7 @@ GraupRad | Graus para Rad | GraupRad(30) | 0.523
 
 **Tabela Verdade:**
 ```
-| p | q | p e q | p ou q |
+| p | q | p E q | p OU q |
 |---|---|-------|--------|
 | V | V | V     | V      |
 | V | F | F     | V      |
