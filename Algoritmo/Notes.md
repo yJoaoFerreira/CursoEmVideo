@@ -30,6 +30,7 @@
     - **Exemplo¹:** nota1: real
     - **Exemplo²:** idade: inteiro
     - **Exemplo³:** nome: caractere
+    - **Exemplo4:** cadastrado: logico
 
 ---
 
@@ -38,6 +39,7 @@
     - **Exemplo¹:** Nome <- João
     - **Exemplo²:** Idade <- 20
     - **Exemplo³:** Altura <- 185
+    - **Exemplo4:** Cadastrado <- verdadeiro
 
 ---
 
