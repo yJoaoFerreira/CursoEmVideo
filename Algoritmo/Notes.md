@@ -54,3 +54,11 @@ Sen      | Seno (Rad)     | Sen(0.523)   | 0.5
 Cos      | Cosseno (Rad)  | Cos(0.523)   | 0.86
 Tan      | Tangente (Rad) | Tan(0.523)   | 0.57
 GraupRad | Graus para Rad | GraupRad(30) | 0.523
+
+# Operadores Relacionais
+`>`  | Maior que
+`<`  | Menor que
+`>=` | Maior ou igual a
+`<=` | Menor ou igual a
+`=`  | Igual a
+`<>` | Diferente de
