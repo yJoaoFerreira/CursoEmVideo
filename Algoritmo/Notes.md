@@ -13,7 +13,8 @@
     - **Escreval(""):** Escreve um texto pulando uma linha.
 - **Leia():** Permite armazenar o valor de uma variável.
 
-**Nota:** A sintaxe do portugol não é *"case sensitive"*
+**Nota¹:** A sintaxe do portugol não é *"case sensitive"*
+**Nota²:** Os parenteses não precisam ser grudados na função.
 
 # Declaração de Variável
 
