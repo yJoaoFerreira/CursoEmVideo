@@ -24,7 +24,7 @@ inicio
       Leia(Reais)
       
       Dolares <- Reais / 5.48
-      Escreval("Creuza converteu R$", Reais, " para US$ ", Dolares:1:2, "!")
+      Escreval("Creuza converteu R$", Reais, " para US$ ", Dolares:4:2, "!")
       
       Escreval("--------------------")
       
