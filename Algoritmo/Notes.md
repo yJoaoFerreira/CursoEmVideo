@@ -137,3 +137,14 @@ Escolha ChamadaTelefonica
         Escreva("Encerrando a ligação.")
 FimEscolha
 ```
+
+# Estruturas de Repetição
+
+**Enquanto:** Estrutura de repetição "for" para fazer algo enquanto algo acontecer.
+
+```
+Exemplo:
+Enquanto <expressão> faca
+    bloco
+FimEnquanto
+```
