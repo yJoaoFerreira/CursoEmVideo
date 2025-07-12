@@ -140,11 +140,20 @@ FimEscolha
 
 # Estruturas de Repetição
 
-**Enquanto:** Estrutura de repetição "for" para fazer algo enquanto algo acontecer.
+**Enquanto:** Estrutura de repetição "while" para fazer algo enquanto a expressão for verdadeira.
 
 ```
 Exemplo:
-Enquanto <expressão> faca
-    bloco
+Enquanto (nao arrumar o quarto) faca
+    castigo
 FimEnquanto
+```
+
+**Repita:** Estrutura de repetição "Do While" para fazer algo até a expressão ser falsa.
+
+```
+Exemplo:
+Repita
+    castigo
+Ate (arrumar o quarto)
 ```
